@@ -1,0 +1,7 @@
+Logo:
+<a href="https://ibb.co/rmRMgyh"><img src="https://i.ibb.co/nbNfTky/92-925298-blue-atom-transparent-background-uc-leads-clipart-removebg-preview.png" alt="92-925298-blue-atom-transparent-background-uc-leads-clipart-removebg-preview" border="0"></a>
+
+Slider:
+<a href="https://ibb.co/R6f1Y10"><img src="https://i.ibb.co/09TkmkM/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background-144627-24860.jpg" alt="workplace-with-smartphone-laptop-black-table-top-view-copyspace-background-144627-24860" border="0"></a>
+
+https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png

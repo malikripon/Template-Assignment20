@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+.tRight{
+    text-align: right;
+}
+
+/* headerSection */
+
+.headerSection{
+    background-color: #e3f2fd;
+}
+.logo{
+    width: 100%;
+}
+.logo img{
+    width: 100%;
+}
+.menu {
+    margin-top: 22px;
+    margin-left: -35px;
+}
+.menu ul{}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a {
+    text-decoration: none;
+    display: inline-block;
+    color: #aebac3;
+    font-weight: 500;
+    padding: 0 18px;
+    transition: .5s;
+}
+.menu ul li:first-child a{
+    color: #434444;
+}
+.menu ul li a:hover{
+    color: #434444;
+}
+.searchBox {
+    margin-top: 10px;
+}
+.searchBox input {
+    width: 255px;
+    padding: 10px 8px;
+    outline: none;
+    border: none;
+    background: #fff;
+    border-radius: 5px;
+}
+.srcBtn {
+    padding: 9px 22px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: -15px;
+    border: 2px solid #209444;
+    color: #209444;
+    transition: .5s;
+}
+.srcBtn:hover {
+    background-color: #209444;
+    color: #fff;
+    border: 2px solid transparent;
+}
+
+.breadcrumb{
+    width: 100%;
+}
+.breadcrumb li{
+    display: inline-block;
+    padding: 8px;
+}
+.breadcrumb li a{
+    display: block;
+}
+.shade{
+    background-color: #ddd;
+    width: 100%;
+}
+.progress{
+    margin-bottom: 20px;
+}
+
+.footerSection p {
+    margin-top: 15px;
+    padding: 10px 0;
+    font-size: 18px;
+}
